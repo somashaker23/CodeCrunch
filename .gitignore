@@ -1,2 +1,5 @@
 main.py
 Solution.java
+
+# java compiled files
+*.class
